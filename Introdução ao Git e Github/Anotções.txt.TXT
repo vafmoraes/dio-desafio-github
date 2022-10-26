@@ -1,0 +1,11 @@
+Alguns comando para o Git Bash
+
+git init - iniciar
+git add . - verificar tudo que foi alterado
+git status - status atual
+git help - ajuda geral
+git help config - ajuda especifica para o comando
+git commit -m "msg" - comitar 
+rspec - atualiza para verificar erro 
+git push origin main - para empurrar/enviar
+git pull 
